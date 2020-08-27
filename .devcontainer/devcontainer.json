@@ -18,6 +18,7 @@
   "extensions": [
     "editorconfig.editorconfig",
     "github.vscode-pull-request-github",
+    "mjmcloug.vscode-elixir",
     "redhat.vscode-yaml"
   ]
 }
