@@ -1,7 +1,7 @@
 ---
 repository:
-  description: VSCode Devcontainer for Elixer
-  homepage: https://github.com/hspaans/vscode-devcontainer-elixer
-  topics: vscode, devcontainer, elixer
+  description: VSCode Devcontainer for Elixir
+  homepage: https://github.com/hspaans/vscode-devcontainer-elixir
+  topics: vscode, devcontainer, elixir
   delete_branch_on_merge: true
   has_wiki: false

@@ -1,2 +1,2 @@
-# vscode-devcontainer-elixer
-VSCode Devcontainer for Elixer
+# vscode-devcontainer-elixir
+VSCode Devcontainer for Elixir
