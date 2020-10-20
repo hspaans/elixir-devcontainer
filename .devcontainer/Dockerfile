@@ -1,4 +1,4 @@
-FROM elixir:1.10-slim
+FROM elixir:1.10.4-slim
 
 # Avoid warnings by switching to noninteractive
 ENV DEBIAN_FRONTEND=noninteractive
