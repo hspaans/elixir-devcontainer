@@ -1,5 +1,7 @@
 FROM elixir:1.10.4-slim
 
+LABEL org.opencontainers.image.source=https://github.com/hspaans/elixir-devcontainer
+
 # Avoid warnings by switching to noninteractive
 ENV DEBIAN_FRONTEND=noninteractive
 
