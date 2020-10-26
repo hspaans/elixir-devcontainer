@@ -1,5 +1,6 @@
 FROM elixir:1.10.4-slim
 
+LABEL org.opencontainers.image.description="Elixir devcontainer for VSCode or Codespaces"
 LABEL org.opencontainers.image.source=https://github.com/hspaans/elixir-devcontainer
 
 # Avoid warnings by switching to noninteractive
